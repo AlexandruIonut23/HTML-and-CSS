@@ -1,0 +1,22 @@
+body {
+    color:blue;
+    font-style: verdana;
+    text-align: right;
+}
+h1 {
+    color: black;
+    font-weight: bold;
+    text-shadow: 2px 2px #ff0000;
+}
+p {
+    color: darkgreen;
+    font-style: italic;
+    text-align: left;
+    background: black;
+}
+.Class_B {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+/* The code above changed the color and font style and other shit too yuhhh*/
